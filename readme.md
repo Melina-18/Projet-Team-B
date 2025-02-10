@@ -2,13 +2,13 @@
 
 
 Thème : Réaliser un projet sur un Escape Game 
+Objectif : avoir une clé pour passer au projet d'un autre groupe
+
 
 
 ## Info utile :
 Cube de 40*40
 
-
-## Objectif : avoir une clé pour passer au projet d'un autre groupe
 
 
 ## A faire :
