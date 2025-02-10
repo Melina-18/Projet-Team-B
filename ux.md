@@ -1,4 +1,4 @@
-#User experience
+# User experience
 
 ## Introduction 
 L'énigme s'inspire du jeu Storyteller, les joueurs doivent suivre une histoire pour résoudre une énigme. A chaque étape, une courte histoire donnera des indices sur la position et l'activité des personnages. 
@@ -12,7 +12,6 @@ Les joueurs reçoivent des pièces avec des personnages exerçant différentes a
 
 
 
-
 ## But 
 Avoir les bons personnages dans la bonne pièce, et que les personnages effectuent la bonne action. 
 
@@ -22,8 +21,7 @@ Avoir les bons personnages dans la bonne pièce, et que les personnages effectue
 
 
 
-A faire 
+## A faire 
 - Ecrire l'histoire
 - Imprimer les personnages
-- 
 
