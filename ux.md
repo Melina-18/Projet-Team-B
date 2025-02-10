@@ -21,7 +21,4 @@ Avoir les bons personnages dans la bonne pièce, et que les personnages effectue
 
 
 
-## A faire 
-- Ecrire l'histoire
-- Imprimer les personnages
 
