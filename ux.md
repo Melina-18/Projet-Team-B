@@ -9,9 +9,9 @@ Les joueurs reçoivent des pièces avec des personnages exerçant différentes a
 
 
 ## Action possible du game master (personne qui vient en aide)
--expliciter les règles du jeu si les joueurs en ont besoin.
--pointer une erreur ou mauvaise compréhension de l'énigme.
--donner un exemple ou une partie de la solution si les joueurs sont bloqués
+-expliciter les règles du jeu si les joueurs en ont besoin.  
+-pointer une erreur ou mauvaise compréhension de l'énigme.  
+-donner un exemple ou une partie de la solution si les joueurs sont bloqués  
 
 
 ## But 
