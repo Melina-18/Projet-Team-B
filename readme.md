@@ -8,11 +8,11 @@ Objectif : avoir une clé pour passer au projet d'un autre groupe
 
 
 ## Info utile :
-Taille du cube : 40*40 cm
-Hauteur du grenier : 5 cm 
-Contour des pièces : 6 cm 
-Epaisseur entre les pièces : 5 mm 
-Hauteur des 4 autres pièces : 7,25 cm 
+Taille du cube : 40*40 cm  
+Hauteur du grenier : 5 cm   
+Contour des pièces : 6 cm  
+Epaisseur entre les pièces : 5 mm  
+Hauteur des 4 autres pièces : 7,25 cm  
 
 Taille personnage : 4 cm
 
