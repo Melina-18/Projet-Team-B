@@ -2,7 +2,7 @@
 
 ## nécessaire
 - cartes pour capteur 
-- écran
+- écran LED
 - capteurs RFID (7)
 
 ## optionnel
