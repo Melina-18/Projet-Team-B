@@ -1,12 +1,11 @@
 # User experience
 
 ## Introduction 
-L'énigme s'inspire du jeu Storyteller, les joueurs doivent suivre une histoire pour résoudre une énigme. A chaque étape, une courte histoire donnera des indices sur la solution de l'énigme. Pour la première étape, il suffit de placer les personnages au bon endroit. La deuxième étape ajoute un choix sur la luminosité de la pièce. La troisième et dernière étape donne de plus un choix sur les actions des personnages. Si les joueurs réussissent, une LED s'allumera en vert et de nouvelles pièces ainsi que l'énigme suivante leur est fournie. Après avoir réussi la dernière étape, ils obtiennent l'une des clés nécessaires pour finir le jeu.
+L'énigme s'inspire du jeu Storyteller, les joueurs doivent suivre une histoire pour résoudre une énigme. A chaque étape, une courte histoire donnera des indices sur la solution de l'énigme. Pour la première étape, il suffit de placer les personnages au bon endroit. La deuxième étape ajoute un choix sur la luminosité de la pièce. La troisième et dernière étape donne de plus un choix sur les actions des personnages. Si les joueurs réussissent, de nouvelles pièces ainsi que l'énigme suivante leur est fournie. Après avoir réussi la dernière étape, ils obtiennent l'une des clés nécessaires pour finir le jeu.
 
 
 ## Action possible des joueurs 
-Les joueurs reçoivent des pièces avec des personnages exerçant différentes actions. Ils peuvent placer ces personnages dans les fentes correspondantes puis appuyer sur un bouton pour confirmer leur résultat. Ils peuvent aussi appuyer sur un bouton pour modifier l'état d'une LED (luminosité d'une pièce)
-
+Les joueurs reçoivent des cartes avec des personnages ou une action(ex allumer la lumière). Ils peuvent placer ces cartes devant une pièce pour les placer dans celle-ci( dans le cas d'une action, elle sera effectuée lorsque la carte est passée), la position des personnages sera indiquée sur l'écran LED. Ils peuvent ensuite appuyer sur un bouton pour confirmer leur résultat. 
 
 ## Action possible du game master (personne qui vient en aide)
 -expliciter les règles du jeu si les joueurs en ont besoin.  
