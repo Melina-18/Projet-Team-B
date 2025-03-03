@@ -17,4 +17,5 @@ Cube de 40*40
 - Ecrire l'histoire
 - Imprimer les personnages
 
-
+### Scéance 2
+-schéma du PCB(différentes actions),du code
