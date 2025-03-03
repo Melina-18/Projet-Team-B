@@ -6,4 +6,4 @@
 - led rouge (1)
 - interrupteur
 - écran
-- 
+- capteur RFID (7)
