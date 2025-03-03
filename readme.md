@@ -18,7 +18,7 @@ Taille personnage : 4 cm
 
 
 ## A faire :
-- Faire le plan de la maison
+- Faire le plan de la maison      OK
 - Ecrire l'histoire
 - Imprimer les personnages
 
