@@ -4,6 +4,6 @@
 - led verte (3)
 - led blanche (7)
 - led rouge (1)
-- interrupteur
+- cartes pour capteur 
 - écran
-- capteur RFID (7)
+- capteurs RFID (7)
