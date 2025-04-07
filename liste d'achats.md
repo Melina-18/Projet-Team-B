@@ -3,8 +3,7 @@
 ## nécessaire
 - cartes pour capteur 
 - écran LED
-- capteurs RFID (7) (https://www.gotronic.fr/art-module-rfid-u031-b-35615.htm)
-- 2 interrupteurs: confirmer et Reset
-
-## optionnel
+- 1 capteur RFID
+- 4 interrupteurs: confirmer et Reset, gauche et droite
+- 1 servo moteur
 - leds
