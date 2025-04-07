@@ -1,11 +1,12 @@
 # Déroulé de l'histoire
 ### Etape 1 : Placement des personnages
-Ouverture de la cave grâce à une énigme d'un autre groupe.  
-On trouve dans la cave les personnages. 
+Récupération des cartes (comment ???) 
 
 
 
 
+### Dernière étape : Résolution de l'énigme
+Une fois l'énigme résolue la trape de la cave souvre, grâce au servo moteur, pour libérer une des trois clés.
 
 
 
