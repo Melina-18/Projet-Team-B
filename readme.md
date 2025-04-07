@@ -8,7 +8,7 @@ Objectif : avoir une clé pour passer au projet d'un autre groupe
 
 
 ## Info utile :
-Dimension du cube : 40*40 cm  
+Dimension du cube : 30*30 cm  
 Hauteur du grenier : 8 cm  
 Contour des pièces : 4 cm  
 Epaisseur entre les pièces : 5 mm   
