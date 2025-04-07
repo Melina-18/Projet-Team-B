@@ -1,7 +1,7 @@
 # User experience
 
 ## Introduction 
-L'énigme s'inspire du jeu Storyteller, les joueurs doivent suivre une histoire pour résoudre une énigme. A chaque étape, une courte histoire donnera des indices sur la solution de l'énigme. Pour la première étape, il suffit de placer les personnages au bon endroit. La deuxième étape ajoute un choix sur la luminosité de la pièce. La troisième et dernière étape donne de plus un choix sur les actions des personnages. Si les joueurs réussissent, de nouvelles pièces ainsi que l'énigme suivante leur est fournie. Après avoir réussi la dernière étape, ils obtiennent l'une des clés nécessaires pour finir le jeu.
+L'énigme s'inspire du jeu Storyteller, les joueurs doivent suivre une histoire pour résoudre une énigme. A chaque étape, une courte histoire donnera des indices sur la solution de l'énigme. Pour la première étape, il suffit de placer les personnages au bon endroit. La duxième et dernière étape donne de plus un choix sur les actions des personnages. Si les joueurs réussissent, de nouvelles pièces ainsi que l'énigme suivante leur est fournie. Après avoir réussi la dernière étape, ils obtiennent l'une des clés nécessaires pour finir le jeu.
 
 
 ## Action possible des joueurs 
@@ -15,7 +15,7 @@ Si le résultat est incorrect, un deuxième bouton, nommé reset, leur permettra
 
 
 ## But 
-Avoir les bons personnages dans la bonne pièce,avec la bonne luminosité et que les personnages effectuent la bonne action. 
+Avoir les bons personnages dans la bonne pièce et que les personnages effectuent la bonne action. 
 
 
 
