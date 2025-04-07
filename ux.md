@@ -5,7 +5,8 @@ L'énigme s'inspire du jeu Storyteller, les joueurs doivent suivre une histoire 
 
 
 ## Action possible des joueurs 
-Les joueurs reçoivent des cartes avec des personnages ou une action(ex: allumer la lumière). Ils peuvent placer ces cartes devant une pièce pour les placer dans celle-ci( dans le cas d'une action, elle sera effectuée lorsque la carte est passée), la position des personnages sera indiquée sur l'écran LED. Ils peuvent ensuite appuyer sur un bouton pour confirmer leur résultat. 
+Les joueurs reçoivent des cartes avec des personnages ou une action(ex: allumer la lumière). Pour placer ces personnages, ils doivent passer la carte devant le capteur et choisir la pièce via les boutons et l'écran LED. La position des personnages sera indiquée sur l'écran LED. Ils peuvent ensuite appuyer sur un bouton pour confirmer leur résultat.
+Si le résultat est incorrect, un deuxième bouton, nommé reset, leur permettra de réessayer.
 
 ## Action possible du game master (personne qui vient en aide)
 -expliciter les règles du jeu si les joueurs en ont besoin.  
