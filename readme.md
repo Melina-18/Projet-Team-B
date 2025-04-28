@@ -15,8 +15,8 @@ Taille personnage : 4*3 cm
 
 
 ## A faire :
-- Faire le plan de la maison        ### OK
-- Faire le PCB                      ### OK
+✔ Faire le plan de la maison        
+✔ Faire le PCB                      
 - Ecrire l'histoire
 - Coder le moteur
 - Coder l'écran
