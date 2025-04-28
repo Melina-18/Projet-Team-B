@@ -10,7 +10,7 @@ Objectif : avoir une clé pour passer au projet d'un autre groupe
 ## Info utile :
 Dimension du cube : 30*30 cm  
 Rebord de 0,5 cm autour de chaque pièce 
-Profondeur de 3 cm 
+Profondeur de 3 cm   
 
 
 Taille personnage : 4*3 cm
