@@ -2,8 +2,7 @@
 
 
 ## PCB : 
-Le PCB a été crée à partir d'un carte microcontroleur STM32 auquel on a branché tous les éléments nécéssaires c'est à dire : un régulateur, un moteur, un écran, un capteur RFID, des bouttons, des LEDs et des connecteurs.  
-
+Le PCB a été créé à partir d'une carte microcontrôleur STM32 à laquelle on a branché tous les éléments nécessaires, c'est-à-dire : un régulateur, un moteur, un écran, un capteur RFID, des boutons, des LEDs et des connecteurs.
 
 
 ## CODE du moteur :
