@@ -1,14 +1,14 @@
-###Création d'un jeu d'escape game du type storyteller 
+# Création d'un jeu d'escape game du type storyteller 
 
 
-PCB : 
+## PCB : 
 Le PCB a été crée à partir d'un carte microcontroleur STM32 auquel on a branché tous les éléments nécéssaires c'est à dire : un régulateur, un moteur, un écran, un capteur RFID, des bouttons, des LEDs et des connecteurs.  
 
 
 
-CODE du moteur :
+## CODE du moteur :
 
 
 
 
-CODE du capteur RFID: 
+## CODE du capteur RFID : 
