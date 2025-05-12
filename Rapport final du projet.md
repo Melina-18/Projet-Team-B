@@ -9,8 +9,12 @@ L'écran va permettre d'afficher les consignes sur le jeu. Les leds et les bouto
 
 ## CODE du moteur :
 
-
-
+void setServo(int angle){
+  int pulsemax = 1900
+  int pulsemin = 1500
+  int pulse = pulsemin + (pulsemax-pulsemin)*angle/180
+	TIM2->CCR4 = pulse;
+}
 
 ## CODE du capteur RFID : 
 
