@@ -15,7 +15,7 @@ void setServo(int angle){
   int pulse = pulsemin + (pulsemax-pulsemin)*angle/180    
   TIM2->CCR4 = pulse;   
 }   
-
+Ici pour le cas où PWM du moteur est sur channel 4 du timer 2.
 ## CODE du capteur RFID : 
 
 
