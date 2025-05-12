@@ -13,7 +13,7 @@ void setServo(int angle){
   int pulsemax = 1900
   int pulsemin = 1500
   int pulse = pulsemin + (pulsemax-pulsemin)*angle/180
-	TIM2->CCR4 = pulse;
+  TIM2->CCR4 = pulse;
 }
 
 ## CODE du capteur RFID : 
