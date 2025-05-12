@@ -16,7 +16,18 @@ Une fois l'énigme résolue la trape de la cave souvre, grâce au servo moteur, 
 
 
 ## idée 
+#### 6 pièces :
+Bibliothèque
 
+Cuisine
+
+Salon
+
+Laboratoire
+
+Hall d’entrée
+
+Salle de musique
 #### Partie 1 : Niveau Facile : Soirée au manoir
 La soirée était tombée sur le vieux manoir d’Élise, une demeure austère, entourée de haies sombres et de vastes jardins qui semblaient se perdre dans l’obscurité. Les invités se rassemblèrent autour d’une grande table dans le salon, où des chandelles vacillaient dans des candelabres en argent, projetant des ombres dansantes sur les murs. Les conversations étaient discrètes, murmurées presque, mais une tension invisible planait dans l’air. Chacun semblait pressé de parler, mais personne ne voulait vraiment écouter. L’odeur de la nourriture se mêlait à l’air frais qui s’échappait par la fenêtre entrouverte.
 
