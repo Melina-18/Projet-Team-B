@@ -1,6 +1,11 @@
 # Déroulé de l'histoire
-### Etape 1 : Placement des personnages
-Récupération des cartes (comment ???) 
+
+11 personnages dans 6 pièces en 3 étapes 
+
+On recupère les personnages dans la cave qui est une partie ouverte.
+
+### Etape 1 : Placement des personnages dans la bonne pièce
+
 
 
 
