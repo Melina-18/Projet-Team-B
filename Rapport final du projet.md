@@ -1,4 +1,4 @@
-# Création d'un jeu d'escape game du type storyteller
+# Création d'un jeu d'escape game
 
 
 ## PCB : 
