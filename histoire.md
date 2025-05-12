@@ -23,7 +23,7 @@ Cuisine
 
 Salon
 
-Laboratoire
+Chambre de la comptesse
 
 Hall d’entrée
 
