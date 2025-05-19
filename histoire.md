@@ -25,7 +25,7 @@ Salon
 
 Chambre de la comptesse
 
-Hall d’entrée
+Bureau
 
 Salle de musique
 #### Partie 1 : Niveau Facile : Soirée au manoir
