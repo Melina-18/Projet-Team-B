@@ -12,7 +12,7 @@ L'écran va permettre d'afficher les consignes sur le jeu. Les leds et les bouto
 void setServo(int angle){   
   int pulsemax = 1900   
   int pulsemin = 1500     
-  int pulse = pulsemin + (pulsemax-pulsemin)*angle/180    
+  int pulse = pulsemin + (pulsemax-pulsemin)*angle/120    
   TIM2->CCR4 = pulse;   
 }   
 Ici pour le cas où PWM du moteur est sur channel 4 du timer 2.
