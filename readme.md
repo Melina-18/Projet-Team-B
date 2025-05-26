@@ -14,20 +14,3 @@ Rebord de 0,5 cm autour de chaque pièce
 
 Profondeur de 3 cm   
 
-
-Taille personnage : 4*3 cm
-
-
-## A faire :
-✔ Faire le plan de la maison        
-✔ Faire le PCB                      
-- Ecrire l'histoire
-- Coder le moteur
-- Coder l'écran
-- Coder le capteur RFID
-- Modéliser les pièces de la maison sur onshape
-- Modéliser les peronnages en prennant en compte les badges
-- Imprimer les personnages avec l'imprimante 3D
-- Imprimer les pièces avec l'imprimante 3D
-
-
