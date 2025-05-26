@@ -99,5 +99,7 @@ Louise Montclar (sœur de Victor) :
 Agathe (gouvernante) :
 « J’étais certaine d’avoir revu la broche de Madame Clémence après le dîner. Je l’ai même replacée avant le café. Mais c’était peut-être le jour d’avant… tout se confond, maintenant. J’ai vu Samuel entrer dans la bibliothèque vers minuit. Il m’a paru… troublé. Mais ce n’est pas une preuve. Et ce mouchoir… pourquoi le laisser aussi visible, s’il était coupable ? »
 
+Où était les personnages au moment du meutre ? Qui est le coupable ?
+
 #### Lien pour avoir accès au solutions :
 https://docs.google.com/document/d/11vxodRY4HT3LNnvwcEI3mEeT0nDn-o-bZiFze023wOU/edit?usp=sharing
