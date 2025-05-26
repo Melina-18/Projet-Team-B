@@ -7,7 +7,7 @@ L'écran va permettre d'afficher les consignes sur le jeu. Les leds et les bouto
 
 
 ## CODE du moteur :
-Le code est écrit pour un servomoteur de type 6800 MGA protronic. Dont, l'angle de rotation maximal est 120° (déterminé experimentalement en l'absence de documentation). Il définit la pulsation du signal PWM en sortie à partir d'un angle de rotation donné en entrée.
+Le code est écrit pour un servomoteur de type 6800 MGA protronic dont l'angle de rotation maximal est 120° (déterminé experimentalement en l'absence de documentation). Le code définit la pulsation du signal PWM en sortie à partir d'un angle de rotation donné en entrée.
 
 void setServo(int angle){   
   int pulsemax = 1900   
