@@ -76,6 +76,8 @@ Louise Montclar :
 Agathe :
 « Moi, j’ai vu Clémence remonter à l’étage vers 23h40, alors qu’elle dit être restée en bas. Peut-être suis-je confuse, mais je me souviens très bien de sa robe sombre dans l’escalier. Elle marchait vite. »
 
+Où sont les personnages justes avant le meutre (peu avant 23h50) ?
+
 #### PARTIE 3 – Révélation du coupable
 ##### Une broche appartenant à Clémence est retrouvée dans le bureau. Agathe se dit avoir aidé Clémence à la remettre en place après le dîner mais Clémence dément.
 
