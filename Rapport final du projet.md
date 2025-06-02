@@ -6,7 +6,9 @@ Le PCB a été créé sur KiCad à partir d'une carte microcontrôleur STM32 à 
 L'écran va permettre d'afficher les consignes sur le jeu. Les leds et les boutons serviront à valider et savoir si la réponse est correcte.
 
 
-## CODE du moteur :
+##Partie informatique   
+
+### CODE du moteur :
 Le code est écrit pour un servomoteur de type 6800 MGA protronic dont l'angle de rotation maximal est 120° (déterminé experimentalement en l'absence de documentation). Le code définit la pulsation du signal PWM en sortie à partir d'un angle de rotation donné en entrée.
 
 void setServo(int angle){   
@@ -18,7 +20,7 @@ void setServo(int angle){
 }   
 Ici pour le cas où PWM du moteur est sur channel 4 du timer 2.
 
-## CODE du capteur RFID : 
+### CODE du capteur RFID : 
 //Card_READ : Lis les informations de la carte ou d'un tag et modifie les listes contenant les personnages  
 void Card_READ(void)  
 {   
@@ -38,7 +40,7 @@ add_character("Clemence ");  // sert à garder la liste des personnages dans cha
 			perso="Clemence ";  // garde le personnage le plus récent    
 			nb_personages[i]+=1;  // sert à modifier la position où le nom des personnages est affiché}    
 
-## CODE de l’écran LED:   
+### CODE de l’écran LED:   
 //screen_update : Met à jour l'écran   
 void screen_update()   
 {	if (button_pressed==1){   
