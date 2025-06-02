@@ -55,6 +55,7 @@ Où sont les personnages au moment de la découverte du corps ?
 
 
 
+
 #### PARTIE 2 – L’ENQUÊTE
 ##### Les premières incohérences émergent. Les témoignages sont repris et confrontés. Des objets sont découverts, dans le bureau une page de testament fraîchement rédigée retirant Clémence de la succession et dans le couloir un mouchoir ensanglanté avec les initiales S.R.
 
@@ -68,15 +69,15 @@ Jules Martel :
 « Peu avant la découverte du corps, vers 23h40, Samuel est entré dans la bibliothèque, sûrement pour s’y calmer et prendre un livre. Il est reparti un quart d’heure plus tard je crois, je ne suis pas sûr.»
 
 Louise Montclar :
-« Victor m’avait dit qu’il réfléchissait à changer certaines choses dans son testament, mais je croyais que c’était une lubie. Il adorait les secrets. Et pourtant… ça ne m’étonne pas qu’il l’ait fait. Il devenait imprévisible. »
+« Victor m’avait dit qu’il réfléchissait à changer certaines choses dans son testament, mais je croyais que c’était une lubie. Il adorait les secrets. Et pourtant… ça ne m’étonne pas qu’il l’ait fait. Il devenait imprévisible.»
 
 Émile Lemoine :
-« Quand je suis monté une première fois pour savoir si monsieur voulait une tisane, j’ai cru entendre une voix derrière la porte. Une voix basse. Peut-être une femme. Mais elle s’est arrêtée dès que j’ai frappé. Comme je ne voulais pas déranger, je suis resté derrière la porte pour demander»
+« Quand je suis monté une première fois pour savoir si monsieur voulait une tisane, j’ai cru entendre une voix derrière la porte. Une voix basse. Peut-être une femme. Mais elle s’est arrêtée dès que j’ai frappé. Comme je ne voulais pas déranger, je suis resté derrière la porte pour demander.»
 
 Agathe :
 « Moi, j’ai vu Clémence remonter à l’étage vers 23h40, alors qu’elle dit être restée en bas. Peut-être suis-je confuse, mais je me souviens très bien de sa robe sombre dans l’escalier. Elle marchait vite. »
 
-Où sont les personnages justes avant le meutre (peu avant 23h50) ?
+D’après ces premiers témoignages, où étaient les personnages peu avant le meutre ?
 
 #### PARTIE 3 – Révélation du coupable
 ##### Une broche appartenant à Clémence est retrouvée dans le bureau. Agathe se dit avoir aidé Clémence à la remettre en place après le dîner mais Clémence dément.
@@ -88,10 +89,10 @@ Samuel Roche (cousin) :
 « J’ai été maladroit. J’aurais dû dire que j’étais retourné vers la bibliothèque. J’avais oublié un livre. J’ai marché seul dans le couloir pendant un moment… Je n’ai vu personne. Le mouchoir ? Il est à moi, oui. Je l’avais dans ma poche. S’il a été retrouvé là, j’ai dû le perdre. Je... Je ne vois pas ce que ça prouve. »
 
 Jules Martel (ami et ancien enquêteur) :
-« Les heures ne s’alignent pas. Le médecin suppose la mort vers 23h50. À cette heure-là, j’ai cru entendre une voix dans le bureau — douce, basse. Puis un bruit mat. Mais comme Samuel, faisait du bruit je ne saurais dire s’il s’agit d’une chute. »
+« Le médecin suppose la mort vers 23h50. À cette heure-là, j’ai cru entendre une voix dans le bureau — douce, basse. Puis un bruit mat. Mais comme Samuel, faisait du bruit je ne saurais dire s’il s’agit d’une chute. »
 
 Louise Montclar (sœur de Victor) :
-« Victor m’avait montré une lettre : il voulait modifier son testament. Il parlait d’y enlever sa femme. Je croyais qu’il plaisantait. Il n’a jamais su aimer sans provoquer. Cette nuit-là, j’ai cru apercevoir une ombre dans le salon en revenant de ma chambre, mais je n’y ai pas prêté attention. Avec cette maison, on imagine parfois des choses. »
+« Victor m’avait montré une lettre : il voulait modifier son testament. Il parlait d’y enlever sa femme. Je croyais qu’il plaisantait. Il n’a jamais su aimer sans provoquer. J’ai cru voir une ombre entrer dans le bureau vers 23h50. Mais je ne suis pas sûre avec cette maison, on imagine parfois des choses. »
 
 Émile Lemoine (assistant) :
 « J’ai vu Madame Clémence passer dans le couloir, mais je ne suis plus sûr de l’heure. Elle semblait pressée, ou perdue dans ses pensées. J’aurais dû parler plus tôt, mais je ne voulais accuser personne. Surtout pas elle. Elle a toujours été correcte avec moi. »
@@ -99,7 +100,7 @@ Louise Montclar (sœur de Victor) :
 Agathe (gouvernante) :
 « J’étais certaine d’avoir revu la broche de Madame Clémence après le dîner. Je l’ai même replacée avant le café. Mais c’était peut-être le jour d’avant… tout se confond, maintenant. J’ai vu Samuel entrer dans la bibliothèque vers minuit. Il m’a paru… troublé. Mais ce n’est pas une preuve. Et ce mouchoir… pourquoi le laisser aussi visible, s’il était coupable ? »
 
-Où était les personnages au moment du meutre ? Qui est le coupable ?
+Où étaient les personnages au moment du meurtre et qui est le meurtrier ?
 
 #### Lien pour avoir accès au solutions :
 https://docs.google.com/document/d/11vxodRY4HT3LNnvwcEI3mEeT0nDn-o-bZiFze023wOU/edit?usp=sharing
