@@ -77,5 +77,5 @@ le reste du code ainsi que l’ioc est accessible dans Projet1A5.0.zip
 
 ## Avis de chacun sur le projet 
 
-Mélina : J'ai beaucoup appris durant ce projet notamment sur la création du PCB. 
+Mélina : J'ai beaucoup appris durant ce projet notamment sur la création du PCB.     
 Tom: J’ai découvert les complexités liées à la réalisation d’un projet ainsi que l’importance d’une bonne organisation dans un groupe.
