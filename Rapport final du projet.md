@@ -6,7 +6,7 @@ Le PCB a été créé sur KiCad à partir d'une carte microcontrôleur STM32 à 
 L'écran va permettre d'afficher les consignes sur le jeu. Les leds et les boutons serviront à valider et savoir si la réponse est correcte.
 
 
-##Partie informatique   
+## Partie informatique :   
 
 ### CODE du moteur :
 Le code est écrit pour un servomoteur de type 6800 MGA protronic dont l'angle de rotation maximal est 120° (déterminé experimentalement en l'absence de documentation). Le code définit la pulsation du signal PWM en sortie à partir d'un angle de rotation donné en entrée.
