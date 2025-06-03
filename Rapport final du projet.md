@@ -82,6 +82,6 @@ le reste du code ainsi que l’ioc est accessible dans Projet1A5.0.zip
 
 Mélina : J'ai beaucoup appris durant ce projet notamment sur la création du PCB.     
 Tom : J’ai découvert les complexités liées à la réalisation d’un projet ainsi que l’importance d’une bonne organisation dans un groupe.    
-Bradley : Que ce soit en code, modélisation 3D et management j'ai beaucoup appris, ce qui me permettra de mieux entreprendre mes futurs projets.
+Bradley : Que ce soit en code, modélisation 3D et management j'ai beaucoup appris, ce qui me permettra de mieux entreprendre mes futurs projets.   
 Lucie : 
 
