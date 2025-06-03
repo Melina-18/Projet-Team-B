@@ -65,7 +65,7 @@ void screen_update()
 		snprintf(buffer,16,"%s ",(pieces[i]));  // la pièce est affichée en haut et en gros    
 		ssd1315_Draw_String(0,0,buffer,&Font_11x18);    
 		snprintf(buffer,16,"%s ",perso);    
-		ssd1315_Draw_String(0,10+(10*nb_personages[i]),buffer,&Font_7x10);  // les personnages sont ajoutés de plus en plus bas selon le nombre dans la pièce     
+		ssd1315_Draw_String(0,10+(10*nb_personages[i]),buffer,&Font_7x10);  // les personnages sont affichés les uns en dessous des autres  
 		ssd1315_Refresh();}    
 
 
